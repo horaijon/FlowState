@@ -11,7 +11,10 @@
     <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.0-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></a>
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
     <a href="https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker"><img src="https://img.shields.io/badge/MediaPipe-Vision_AI-00A896?style=flat-square&logo=google&logoColor=white" alt="MediaPipe Vision" /></a>
+    <a href="https://flow-state-hzlm.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
+
+  <h3>🔗 <a href="https://flow-state-hzlm.vercel.app/">Try FlowState Live →</a></h3>
 
   <p>
     <a href="#-key-features">Key Features</a> •
